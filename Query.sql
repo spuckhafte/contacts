@@ -1,4 +1,4 @@
-use mydb;
+create database mydb;
 create table Contacts (
     s_no int primary key auto_increment,
     name varchar(64),
