@@ -57,7 +57,7 @@ def deleteContact():
 
 def viewAll():
     for user in contacts.get('*'):
-        print(f'{user[0]}: {user[1]}, {user[2]}, {user[3]}');
+        print(f'{user[0]}.{user[1]}: {user[2]}');
     input('\n...press enter to continue')
 
 def viewOne():
