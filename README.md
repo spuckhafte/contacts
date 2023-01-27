@@ -1,3 +1,3 @@
 # Phone Book System
 
-School Project
+School Project: Python + Sql
